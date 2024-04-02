@@ -1,4 +1,4 @@
-<h1> Small Game Library using GUI</h1>
+<h1> TicTacToe vs CPU or Friend</h1>
 
  ### 
 <h2>Description</h2>
